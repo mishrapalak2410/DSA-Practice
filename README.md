@@ -13,6 +13,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0075-sort-colors](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +48,12 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

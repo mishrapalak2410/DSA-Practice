@@ -6,6 +6,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0018-4sum) |
@@ -56,4 +57,8 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

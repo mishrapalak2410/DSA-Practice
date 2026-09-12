@@ -30,6 +30,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0088-merge-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -94,4 +95,13 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0424-longest-repeating-character-replacement](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->

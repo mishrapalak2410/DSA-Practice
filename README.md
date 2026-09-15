@@ -33,6 +33,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -113,6 +114,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

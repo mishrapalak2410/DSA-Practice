@@ -15,6 +15,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0088-merge-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -31,6 +32,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | [0141-linked-list-cycle](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -40,6 +42,7 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mishrapalak2410/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -120,4 +123,13 @@ DSA practice solutions in C++ from LeetCode  and coding contests
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/mishrapalak2410/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
